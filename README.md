@@ -1,4 +1,4 @@
-# Cat in a Box 🐱📦
+# Cat in a Box
 
 An Arduino-powered **cat-in-a-box** project: flip a switch and a hidden paw pops out of a box, then retreats and closes the lid. The cat gets more mischievous with repeated interactions, using ultrasonic sensors to detect someone nearby and tease them with a sneak peek.
 
